@@ -1,0 +1,74 @@
+#Firsthead
+{
+
+  font-size: 3rem;
+  color: #004d61;
+
+
+}
+.up
+{
+  text-align: center;
+}
+#Top-sec
+{
+
+  height: 400px;
+  margin-top: 10px;
+}
+
+.MainDiv
+{
+width: 100%;
+background-image: url("https://media.giphy.com/media/l0MYDdL8WEgSXf41W/giphy.gif");
+height: 1500px;
+background-color: grey;
+border : 6px solid green;
+}
+body
+{
+  margin: 0;
+  background-color: cyan;
+}
+
+
+.Fdiceimg
+{
+height: 300px;
+width: 298px;
+
+
+}
+.Secdice
+{
+  height: 300px;
+  width: 298px;
+
+
+}
+#head2
+{
+
+  font-size: 4rem;
+  color: #2d132c;
+
+
+
+}
+#head3
+{
+
+  color : #2d132c;
+  font-size: 4rem;
+
+}
+.secpor
+{
+
+}
+.firstpor
+{
+  width: 100%;
+text-align: center;
+padding: 2%;
+}
